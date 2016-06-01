@@ -1,4 +1,4 @@
-#Simple Blog
+#Simple Blog (in-progress)
 
 Built during Stephen Grider's React course.
 
